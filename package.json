@@ -1,0 +1,17 @@
+{
+  "name": "clipboard-sync",
+  "version": "1.0.0",
+  "description": "This application lets you sync your clipboard between iOS device and Windows device using the bundled shortcut.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dhivijit K",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "ip": "^1.1.8",
+    "node-clipboardy": "^1.0.3"
+  }
+}
