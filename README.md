@@ -1,6 +1,6 @@
 # Clipboard Sync between iOS and Windows
 
-### This application works by hosting a NodeJS server on the Windows device, the shortcuts app on iPhone will use the shortcuts app to share the clipboard with the Windows device. It is one way sharing meaning you can only transfer the clipboard of your iOS device to your computer but not reverse.
+### This application works by hosting a NodeJS server on the Windows device, the shortcuts app on iPhone will use a shortcut to share the clipboard with the Windows device. It is one way sharing meaning you can only transfer the clipboard of your iOS device to your computer but not reverse.
 <br>
 
 # Set up
