@@ -1,6 +1,6 @@
 # Clipboard Sync between iOS and Windows
 
-### This application works by hosting a NodeJS server on the Windows device, the shortcuts app on iPhone will use a shortcut to share the clipboard with the Windows device. It is one way sharing meaning you can only transfer the clipboard of your iOS device to your computer but not reverse.
+### This application works by hosting a NodeJS server on the Windows device, the shortcuts app on iPhone will use a shortcut to share the clipboard with the Windows device.
 <br>
 
 # Set up
@@ -17,7 +17,7 @@
 6. Make a note of your IP address shown which will be helpful when setting up the shortcut on your iOS device.
 
 ## Setting up on iOS device
-1. You can get the [shortcut](https://www.icloud.com/shortcuts/ff637bb2ebae4e45a34a4e2949c92b2b) by clicking the [link](https://www.icloud.com/shortcuts/ff637bb2ebae4e45a34a4e2949c92b2b).<br>
+1. You can get the [shortcut](https://www.icloud.com/shortcuts/dcfd66a0315243f3b9dd033f88137add) by clicking the [link](https://www.icloud.com/shortcuts/dcfd66a0315243f3b9dd033f88137add).<br>
    ![Shortcut](media/shortcut.jpg)
 2. After saving the shortcut you will be asked to setup, enter the IP address shown in the console of your computer and then click done<br>
    ![Setup](media/shortcut_setup.jpg)
@@ -37,8 +37,8 @@ Users may not feel comfortable to see the console lying around (especially when 
 
 You need to create a batch file which will contain the command `pm2 start ` and then the full path of app.js file of the repository. Copy this batch file to Start-Up folder in your start menu folder. The server should start everytime you start your computer. Batch files have the extension '.bat'
 
-> ## Pro Tip: You can use Siri to do the trasnfer, just activate Siri and say "Send clipboard to PC" and it'll be done
+> ## Pro Tip: You can use Siri to do the trasnfer, just activate Siri and say "Sync clipboard with PC" and it'll be done
 
-> Plans of further developments in this project
-> 1. Transfer clipboard from iOS device and Windows device and back.
+> Plans of further developments in this project<br>
+> ~~1. Transfer clipboard from iOS device and Windows device and back.~~<br>
 > 2. Transfer files
