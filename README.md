@@ -17,7 +17,7 @@
 6. Make a note of your IP address shown which will be helpful when setting up the shortcut on your iOS device.
 
 ## Setting up on iOS device
-1. You can get the [shortcut](https://www.icloud.com/shortcuts/dcfd66a0315243f3b9dd033f88137add) by clicking the [link](https://www.icloud.com/shortcuts/dcfd66a0315243f3b9dd033f88137add).<br>
+1. You can get the [shortcut](https://www.icloud.com/shortcuts/ad5a7cb0e3b446ea9ab3475dfa495962) by clicking the [link](https://www.icloud.com/shortcuts/ad5a7cb0e3b446ea9ab3475dfa495962).<br>
    ![Shortcut](media/shortcut.jpg)
 2. After saving the shortcut you will be asked to setup, enter the IP address shown in the console of your computer and then click done<br>
    ![Setup](media/shortcut_setup.jpg)
